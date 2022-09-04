@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  /* background-color: powderblue; */
+
+}
+h1{
+  font-size: 100px;
+  margin-bottom: 0;
+margin-top: 0;
+}
+p{
+  padding-top: 50px;
+}
+.p1{
+  margin: 0;
+}
+.p2{
+  margin: 0;
+
+}
+.player1{
+  display: inline-grid;
+  font-size: 50px;
+  /* padding: 50px; */
+}
+.player2{
+  display: inline-grid;
+  font-size: 50px;
+  /* padding: 50px; */
+}
+.img{
+  /* padding-top: 50px; */
+  padding: 40px;
+
+}
